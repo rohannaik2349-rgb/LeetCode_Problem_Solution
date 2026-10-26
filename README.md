@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
