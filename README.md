@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0189-rotate-array) |
 | [1672-richest-customer-wealth](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0344-reverse-string) |
 ## String
@@ -30,4 +32,16 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
