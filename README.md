@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohannaik2349-rgb/LeetCode_Problem_Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
